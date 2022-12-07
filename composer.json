@@ -1,0 +1,19 @@
+{
+    "name": "lorran-code/database-manager",
+    "description": "A simple library for managing database connections, results pagination and building queries in PHP.",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "LorranCode\\DatabaseManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "devLorran",
+            "email": "lorrancode@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    }
+}
